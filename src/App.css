@@ -13,6 +13,25 @@
   }
 }
 
+#drum-machine {
+  background-color: #8651c4;
+}
+#display {
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+}
+
+#drum-pads {
+  height: 75vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
